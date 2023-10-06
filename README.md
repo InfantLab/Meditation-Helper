@@ -7,5 +7,9 @@ The app also lets you export your data as a CSV file. I've done this a few times
 
 Here's a few bits of code to do that. 
 
+And here's all the data from the last 10 years, showing what point I typically meditate each day of the week.
+
+![Graph of minutes mediated across the week](MinutesOverYears.png)
+
 
 Caspar Addyman, October 2023
